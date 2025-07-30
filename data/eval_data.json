@@ -1,0 +1,3434 @@
+[
+  {
+    "business_description": "quick pet store",
+    "suggestions": [
+      {
+        "domain": "petstore.org",
+        "confidence": 0.78
+      }
+    ]
+  },
+  {
+    "business_description": "natural hardware store",
+    "suggestions": [
+      {
+        "domain": "hardwarenatural.net",
+        "confidence": 0.66
+      },
+      {
+        "domain": "natural.io",
+        "confidence": 0.73
+      },
+      {
+        "domain": "hardwarenaturalstore.net",
+        "confidence": 0.72
+      },
+      {
+        "domain": "storehardware.ai",
+        "confidence": 0.87
+      }
+    ]
+  },
+  {
+    "business_description": "salon in riverside",
+    "suggestions": [
+      {
+        "domain": "riversidesalon.net",
+        "confidence": 0.78
+      }
+    ]
+  },
+  {
+    "business_description": "natural boutique in hillside",
+    "suggestions": [
+      {
+        "domain": "boutiquenaturalhillside.net",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "business_description": "organic boutique",
+    "suggestions": [
+      {
+        "domain": "organicboutique.co",
+        "confidence": 0.6
+      },
+      {
+        "domain": "boutiqueorganic.org",
+        "confidence": 0.62
+      }
+    ]
+  },
+  {
+    "business_description": "quick restaurant",
+    "suggestions": [
+      {
+        "domain": "restaurant.io",
+        "confidence": 0.87
+      },
+      {
+        "domain": "restaurantquick.com",
+        "confidence": 0.73
+      }
+    ]
+  },
+  {
+    "business_description": "organic restaurant",
+    "suggestions": [
+      {
+        "domain": "restaurantorganic.co",
+        "confidence": 0.86
+      },
+      {
+        "domain": "restaurantorganic.com",
+        "confidence": 0.68
+      },
+      {
+        "domain": "organic.co",
+        "confidence": 0.8
+      },
+      {
+        "domain": "restaurant.org",
+        "confidence": 0.71
+      }
+    ]
+  },
+  {
+    "business_description": "vintage hardware store",
+    "suggestions": [
+      {
+        "domain": "hardwarevintagestore.net",
+        "confidence": 0.7
+      },
+      {
+        "domain": "vintage.ai",
+        "confidence": 0.76
+      },
+      {
+        "domain": "hardware.ai",
+        "confidence": 0.92
+      }
+    ]
+  },
+  {
+    "business_description": "photography studio in beachfront",
+    "suggestions": [
+      {
+        "domain": "photographybeachfrontstudio.ai",
+        "confidence": 0.5
+      },
+      {
+        "domain": "photography.co",
+        "confidence": 0.68
+      }
+    ]
+  },
+  {
+    "business_description": "premium grocery store",
+    "suggestions": [
+      {
+        "domain": "premium.io",
+        "confidence": 0.71
+      }
+    ]
+  },
+  {
+    "business_description": "restaurant in shopping mall",
+    "suggestions": [
+      {
+        "domain": "restaurant.io",
+        "confidence": 0.94
+      }
+    ]
+  },
+  {
+    "business_description": "law firm",
+    "suggestions": [
+      {
+        "domain": "firmlaw.ai",
+        "confidence": 0.9
+      },
+      {
+        "domain": "firmlaw.org",
+        "confidence": 0.85
+      },
+      {
+        "domain": "firmlaw.com",
+        "confidence": 0.86
+      }
+    ]
+  },
+  {
+    "business_description": "organic photography studio in city center",
+    "suggestions": [
+      {
+        "domain": "studiocityphotography.com",
+        "confidence": 0.85
+      },
+      {
+        "domain": "photography.io",
+        "confidence": 0.93
+      },
+      {
+        "domain": "studiocenter.com",
+        "confidence": 0.91
+      },
+      {
+        "domain": "centerorganic.org",
+        "confidence": 0.51
+      }
+    ]
+  },
+  {
+    "business_description": "urban law firm",
+    "suggestions": [
+      {
+        "domain": "urbanlaw.ai",
+        "confidence": 0.54
+      },
+      {
+        "domain": "firmurbanlaw.net",
+        "confidence": 0.6
+      },
+      {
+        "domain": "lawurbanfirm.net",
+        "confidence": 0.78
+      },
+      {
+        "domain": "firm.co",
+        "confidence": 0.92
+      },
+      {
+        "domain": "firmurbanlaw.ai",
+        "confidence": 0.87
+      }
+    ]
+  },
+  {
+    "business_description": "restaurant",
+    "suggestions": [
+      {
+        "domain": "restaurant.org",
+        "confidence": 0.66
+      },
+      {
+        "domain": "restaurant.net",
+        "confidence": 0.7
+      },
+      {
+        "domain": "restaurant.co",
+        "confidence": 0.67
+      },
+      {
+        "domain": "restaurant.net",
+        "confidence": 0.91
+      }
+    ]
+  },
+  {
+    "business_description": "vintage spa",
+    "suggestions": [
+      {
+        "domain": "vintage.ai",
+        "confidence": 0.84
+      }
+    ]
+  },
+  {
+    "business_description": "photography studio in shopping mall",
+    "suggestions": [
+      {
+        "domain": "photography.org",
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "business_description": "organic hardware store in business district",
+    "suggestions": [
+      {
+        "domain": "business.co",
+        "confidence": 0.5
+      },
+      {
+        "domain": "hardware.org",
+        "confidence": 0.8
+      },
+      {
+        "domain": "organicstorehardware.io",
+        "confidence": 0.92
+      },
+      {
+        "domain": "businessdistrictstore.org",
+        "confidence": 0.78
+      }
+    ]
+  },
+  {
+    "business_description": "urban medical clinic",
+    "suggestions": [
+      {
+        "domain": "urban.co",
+        "confidence": 0.77
+      }
+    ]
+  },
+  {
+    "business_description": "premium art gallery",
+    "suggestions": [
+      {
+        "domain": "premiumart.co",
+        "confidence": 0.71
+      },
+      {
+        "domain": "gallery.io",
+        "confidence": 0.77
+      },
+      {
+        "domain": "galleryartpremium.io",
+        "confidence": 0.62
+      },
+      {
+        "domain": "art.net",
+        "confidence": 0.52
+      }
+    ]
+  },
+  {
+    "business_description": "affordable tech startup in downtown",
+    "suggestions": [
+      {
+        "domain": "downtownstartup.ai",
+        "confidence": 0.51
+      }
+    ]
+  },
+  {
+    "business_description": "classic hardware store",
+    "suggestions": [
+      {
+        "domain": "storeclassichardware.org",
+        "confidence": 0.86
+      },
+      {
+        "domain": "hardwareclassic.net",
+        "confidence": 0.73
+      },
+      {
+        "domain": "classicstorehardware.ai",
+        "confidence": 0.68
+      },
+      {
+        "domain": "hardwarestore.ai",
+        "confidence": 0.86
+      },
+      {
+        "domain": "storehardwareclassic.org",
+        "confidence": 0.85
+      }
+    ]
+  },
+  {
+    "business_description": "deluxe tech startup",
+    "suggestions": [
+      {
+        "domain": "startupdeluxe.net",
+        "confidence": 0.89
+      },
+      {
+        "domain": "deluxetech.com",
+        "confidence": 0.64
+      },
+      {
+        "domain": "techdeluxestartup.io",
+        "confidence": 0.53
+      },
+      {
+        "domain": "deluxestartuptech.io",
+        "confidence": 0.79
+      }
+    ]
+  },
+  {
+    "business_description": "grocery store",
+    "suggestions": [
+      {
+        "domain": "store.io",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "business_description": "photography studio",
+    "suggestions": [
+      {
+        "domain": "studiophotography.net",
+        "confidence": 0.66
+      },
+      {
+        "domain": "studiophotography.org",
+        "confidence": 0.83
+      },
+      {
+        "domain": "studio.ai",
+        "confidence": 0.52
+      },
+      {
+        "domain": "photographystudio.org",
+        "confidence": 0.94
+      },
+      {
+        "domain": "studio.net",
+        "confidence": 0.66
+      }
+    ]
+  },
+  {
+    "business_description": "spa",
+    "suggestions": [
+      {
+        "domain": "spa.org",
+        "confidence": 0.91
+      },
+      {
+        "domain": "spa.org",
+        "confidence": 0.8
+      },
+      {
+        "domain": "spa.ai",
+        "confidence": 0.67
+      },
+      {
+        "domain": "spa.org",
+        "confidence": 0.8
+      },
+      {
+        "domain": "spa.io",
+        "confidence": 0.93
+      }
+    ]
+  },
+  {
+    "business_description": "classic art gallery",
+    "suggestions": [
+      {
+        "domain": "artclassicgallery.net",
+        "confidence": 0.59
+      }
+    ]
+  },
+  {
+    "business_description": "pet store",
+    "suggestions": [
+      {
+        "domain": "petstore.org",
+        "confidence": 0.74
+      },
+      {
+        "domain": "petstore.com",
+        "confidence": 0.9
+      },
+      {
+        "domain": "store.org",
+        "confidence": 0.7
+      },
+      {
+        "domain": "store.ai",
+        "confidence": 0.85
+      }
+    ]
+  },
+  {
+    "business_description": "restaurant",
+    "suggestions": [
+      {
+        "domain": "restaurant.co",
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "business_description": "salon",
+    "suggestions": [
+      {
+        "domain": "salon.net",
+        "confidence": 0.6
+      },
+      {
+        "domain": "salon.com",
+        "confidence": 0.5
+      },
+      {
+        "domain": "salon.ai",
+        "confidence": 0.75
+      },
+      {
+        "domain": "salon.org",
+        "confidence": 0.58
+      },
+      {
+        "domain": "salon.co",
+        "confidence": 0.6
+      }
+    ]
+  },
+  {
+    "business_description": "classic spa",
+    "suggestions": [
+      {
+        "domain": "spaclassic.net",
+        "confidence": 0.86
+      },
+      {
+        "domain": "classic.io",
+        "confidence": 0.55
+      }
+    ]
+  },
+  {
+    "business_description": "family-owned consulting firm in hillside",
+    "suggestions": [
+      {
+        "domain": "hillside.io",
+        "confidence": 0.86
+      }
+    ]
+  },
+  {
+    "business_description": "art gallery",
+    "suggestions": [
+      {
+        "domain": "artgallery.io",
+        "confidence": 0.86
+      },
+      {
+        "domain": "artgallery.org",
+        "confidence": 0.89
+      }
+    ]
+  },
+  {
+    "business_description": "bakery in city center",
+    "suggestions": [
+      {
+        "domain": "centerbakery.com",
+        "confidence": 0.61
+      },
+      {
+        "domain": "bakery.org",
+        "confidence": 0.81
+      },
+      {
+        "domain": "centercity.net",
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "business_description": "modern pet store",
+    "suggestions": [
+      {
+        "domain": "storemodernpet.org",
+        "confidence": 0.7
+      },
+      {
+        "domain": "modern.com",
+        "confidence": 0.9
+      },
+      {
+        "domain": "storepet.ai",
+        "confidence": 0.93
+      },
+      {
+        "domain": "modernstorepet.co",
+        "confidence": 0.8
+      },
+      {
+        "domain": "modern.ai",
+        "confidence": 0.61
+      }
+    ]
+  },
+  {
+    "business_description": "organic grocery store in hillside",
+    "suggestions": [
+      {
+        "domain": "grocery.com",
+        "confidence": 0.52
+      },
+      {
+        "domain": "hillsideorganic.ai",
+        "confidence": 0.83
+      }
+    ]
+  },
+  {
+    "business_description": "classic fitness center",
+    "suggestions": [
+      {
+        "domain": "fitnessclassic.ai",
+        "confidence": 0.79
+      },
+      {
+        "domain": "fitness.ai",
+        "confidence": 0.65
+      },
+      {
+        "domain": "fitnesscenter.org",
+        "confidence": 0.81
+      }
+    ]
+  },
+  {
+    "business_description": "coffee shop in riverside",
+    "suggestions": [
+      {
+        "domain": "shopriverside.com",
+        "confidence": 0.94
+      },
+      {
+        "domain": "riversidecoffee.io",
+        "confidence": 0.54
+      },
+      {
+        "domain": "coffeeshopriverside.ai",
+        "confidence": 0.78
+      },
+      {
+        "domain": "shopriverside.ai",
+        "confidence": 0.68
+      }
+    ]
+  },
+  {
+    "business_description": "classic medical clinic in downtown",
+    "suggestions": [
+      {
+        "domain": "classicmedical.ai",
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "business_description": "boutique in uptown",
+    "suggestions": [
+      {
+        "domain": "uptown.ai",
+        "confidence": 0.81
+      },
+      {
+        "domain": "boutiqueuptown.net",
+        "confidence": 0.84
+      },
+      {
+        "domain": "uptown.io",
+        "confidence": 0.85
+      }
+    ]
+  },
+  {
+    "business_description": "fresh travel agency",
+    "suggestions": [
+      {
+        "domain": "freshagency.ai",
+        "confidence": 0.69
+      },
+      {
+        "domain": "agencyfreshtravel.io",
+        "confidence": 0.65
+      },
+      {
+        "domain": "fresh.co",
+        "confidence": 0.94
+      }
+    ]
+  },
+  {
+    "business_description": "travel agency",
+    "suggestions": [
+      {
+        "domain": "travelagency.net",
+        "confidence": 0.65
+      },
+      {
+        "domain": "travel.co",
+        "confidence": 0.52
+      },
+      {
+        "domain": "travelagency.org",
+        "confidence": 0.52
+      }
+    ]
+  },
+  {
+    "business_description": "affordable consulting firm",
+    "suggestions": [
+      {
+        "domain": "firm.net",
+        "confidence": 0.64
+      },
+      {
+        "domain": "consultingaffordablefirm.net",
+        "confidence": 0.51
+      },
+      {
+        "domain": "affordable.io",
+        "confidence": 0.52
+      }
+    ]
+  },
+  {
+    "business_description": "natural music store in riverside",
+    "suggestions": [
+      {
+        "domain": "riverside.co",
+        "confidence": 0.73
+      },
+      {
+        "domain": "naturalstoremusic.io",
+        "confidence": 0.67
+      },
+      {
+        "domain": "musicnaturalriverside.ai",
+        "confidence": 0.71
+      }
+    ]
+  },
+  {
+    "business_description": "modern hardware store",
+    "suggestions": [
+      {
+        "domain": "store.ai",
+        "confidence": 0.71
+      }
+    ]
+  },
+  {
+    "business_description": "classic medical clinic",
+    "suggestions": [
+      {
+        "domain": "medicalclassicclinic.ai",
+        "confidence": 0.73
+      }
+    ]
+  },
+  {
+    "business_description": "boutique in uptown",
+    "suggestions": [
+      {
+        "domain": "uptownboutique.org",
+        "confidence": 0.71
+      },
+      {
+        "domain": "uptown.org",
+        "confidence": 0.52
+      }
+    ]
+  },
+  {
+    "business_description": "organic medical clinic",
+    "suggestions": [
+      {
+        "domain": "medicalclinic.io",
+        "confidence": 0.59
+      },
+      {
+        "domain": "clinicorganic.net",
+        "confidence": 0.54
+      },
+      {
+        "domain": "medicalorganic.net",
+        "confidence": 0.72
+      }
+    ]
+  },
+  {
+    "business_description": "eco-friendly photography studio",
+    "suggestions": [
+      {
+        "domain": "studioeco-friendly.co",
+        "confidence": 0.85
+      },
+      {
+        "domain": "eco-friendly.io",
+        "confidence": 0.61
+      },
+      {
+        "domain": "eco-friendlyphotographystudio.com",
+        "confidence": 0.65
+      }
+    ]
+  },
+  {
+    "business_description": "deluxe pet store",
+    "suggestions": [
+      {
+        "domain": "storedeluxe.com",
+        "confidence": 0.56
+      },
+      {
+        "domain": "pet.org",
+        "confidence": 0.55
+      },
+      {
+        "domain": "store.org",
+        "confidence": 0.85
+      },
+      {
+        "domain": "petdeluxestore.ai",
+        "confidence": 0.53
+      }
+    ]
+  },
+  {
+    "business_description": "restaurant in shopping mall",
+    "suggestions": [
+      {
+        "domain": "restaurantmallshopping.co",
+        "confidence": 0.76
+      }
+    ]
+  },
+  {
+    "business_description": "artisanal pet store in uptown",
+    "suggestions": [
+      {
+        "domain": "petuptown.com",
+        "confidence": 0.81
+      }
+    ]
+  },
+  {
+    "business_description": "travel agency",
+    "suggestions": [
+      {
+        "domain": "agencytravel.com",
+        "confidence": 0.66
+      },
+      {
+        "domain": "agency.io",
+        "confidence": 0.59
+      },
+      {
+        "domain": "agencytravel.io",
+        "confidence": 0.73
+      },
+      {
+        "domain": "agencytravel.io",
+        "confidence": 0.76
+      },
+      {
+        "domain": "travelagency.co",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "business_description": "express car repair shop",
+    "suggestions": [
+      {
+        "domain": "shoprepair.co",
+        "confidence": 0.75
+      },
+      {
+        "domain": "repairexpress.io",
+        "confidence": 0.86
+      },
+      {
+        "domain": "repairshop.ai",
+        "confidence": 0.66
+      },
+      {
+        "domain": "shopcar.net",
+        "confidence": 0.77
+      }
+    ]
+  },
+  {
+    "business_description": "consulting firm",
+    "suggestions": [
+      {
+        "domain": "firmconsulting.org",
+        "confidence": 0.58
+      },
+      {
+        "domain": "consulting.com",
+        "confidence": 0.91
+      },
+      {
+        "domain": "firmconsulting.net",
+        "confidence": 0.82
+      }
+    ]
+  },
+  {
+    "business_description": "urban boutique",
+    "suggestions": [
+      {
+        "domain": "boutique.org",
+        "confidence": 0.68
+      },
+      {
+        "domain": "boutiqueurban.com",
+        "confidence": 0.89
+      },
+      {
+        "domain": "urbanboutique.net",
+        "confidence": 0.57
+      }
+    ]
+  },
+  {
+    "business_description": "coffee shop in beachfront",
+    "suggestions": [
+      {
+        "domain": "shopbeachfront.io",
+        "confidence": 0.91
+      },
+      {
+        "domain": "beachfrontshop.ai",
+        "confidence": 0.81
+      },
+      {
+        "domain": "beachfront.net",
+        "confidence": 0.74
+      },
+      {
+        "domain": "shopcoffee.org",
+        "confidence": 0.53
+      },
+      {
+        "domain": "beachfrontcoffeeshop.co",
+        "confidence": 0.57
+      }
+    ]
+  },
+  {
+    "business_description": "tech startup",
+    "suggestions": [
+      {
+        "domain": "startup.io",
+        "confidence": 0.56
+      },
+      {
+        "domain": "startup.io",
+        "confidence": 0.69
+      },
+      {
+        "domain": "techstartup.co",
+        "confidence": 0.66
+      },
+      {
+        "domain": "techstartup.org",
+        "confidence": 0.74
+      }
+    ]
+  },
+  {
+    "business_description": "affordable grocery store in main street",
+    "suggestions": [
+      {
+        "domain": "store.org",
+        "confidence": 0.87
+      },
+      {
+        "domain": "main.net",
+        "confidence": 0.67
+      },
+      {
+        "domain": "maingrocerystreet.co",
+        "confidence": 0.69
+      },
+      {
+        "domain": "storeaffordablemain.net",
+        "confidence": 0.82
+      },
+      {
+        "domain": "street.com",
+        "confidence": 0.66
+      }
+    ]
+  },
+  {
+    "business_description": "photography studio in  lakeside",
+    "suggestions": [
+      {
+        "domain": "lakesidephotographystudio.co",
+        "confidence": 0.62
+      },
+      {
+        "domain": "studiolakesidephotography.io",
+        "confidence": 0.73
+      },
+      {
+        "domain": "lakesidephotography.co",
+        "confidence": 0.54
+      },
+      {
+        "domain": "studio.ai",
+        "confidence": 0.52
+      },
+      {
+        "domain": "studiolakesidephotography.co",
+        "confidence": 0.62
+      }
+    ]
+  },
+  {
+    "business_description": "car repair shop in shopping mall",
+    "suggestions": [
+      {
+        "domain": "shopping.com",
+        "confidence": 0.58
+      },
+      {
+        "domain": "shop.io",
+        "confidence": 0.88
+      },
+      {
+        "domain": "shopping.org",
+        "confidence": 0.86
+      },
+      {
+        "domain": "repair.net",
+        "confidence": 0.75
+      }
+    ]
+  },
+  {
+    "business_description": "photography studio in city center",
+    "suggestions": [
+      {
+        "domain": "studio.net",
+        "confidence": 0.53
+      },
+      {
+        "domain": "studiocity.co",
+        "confidence": 0.81
+      },
+      {
+        "domain": "centerphotography.ai",
+        "confidence": 0.66
+      }
+    ]
+  },
+  {
+    "business_description": "natural art gallery",
+    "suggestions": [
+      {
+        "domain": "artnaturalgallery.co",
+        "confidence": 0.66
+      },
+      {
+        "domain": "art.com",
+        "confidence": 0.55
+      },
+      {
+        "domain": "gallery.ai",
+        "confidence": 0.94
+      },
+      {
+        "domain": "naturalartgallery.net",
+        "confidence": 0.56
+      },
+      {
+        "domain": "galleryart.ai",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "business_description": "classic art gallery in historic district",
+    "suggestions": [
+      {
+        "domain": "gallerydistricthistoric.net",
+        "confidence": 0.58
+      },
+      {
+        "domain": "historic.com",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "business_description": "tech startup",
+    "suggestions": [
+      {
+        "domain": "techstartup.net",
+        "confidence": 0.85
+      },
+      {
+        "domain": "startup.net",
+        "confidence": 0.83
+      },
+      {
+        "domain": "startuptech.io",
+        "confidence": 0.62
+      }
+    ]
+  },
+  {
+    "business_description": "fresh travel agency",
+    "suggestions": [
+      {
+        "domain": "agencyfreshtravel.co",
+        "confidence": 0.8
+      },
+      {
+        "domain": "fresh.net",
+        "confidence": 0.89
+      },
+      {
+        "domain": "fresh.io",
+        "confidence": 0.91
+      }
+    ]
+  },
+  {
+    "business_description": "restaurant",
+    "suggestions": [
+      {
+        "domain": "restaurant.org",
+        "confidence": 0.8
+      },
+      {
+        "domain": "restaurant.net",
+        "confidence": 0.76
+      },
+      {
+        "domain": "restaurant.io",
+        "confidence": 0.74
+      },
+      {
+        "domain": "restaurant.net",
+        "confidence": 0.62
+      }
+    ]
+  },
+  {
+    "business_description": "premium spa",
+    "suggestions": [
+      {
+        "domain": "spapremium.org",
+        "confidence": 0.52
+      },
+      {
+        "domain": "premiumspa.com",
+        "confidence": 0.95
+      },
+      {
+        "domain": "spa.ai",
+        "confidence": 0.86
+      }
+    ]
+  },
+  {
+    "business_description": "boutique",
+    "suggestions": [
+      {
+        "domain": "boutique.com",
+        "confidence": 0.78
+      },
+      {
+        "domain": "boutique.ai",
+        "confidence": 0.62
+      },
+      {
+        "domain": "boutique.ai",
+        "confidence": 0.58
+      }
+    ]
+  },
+  {
+    "business_description": "family-owned bookstore in midtown",
+    "suggestions": [
+      {
+        "domain": "family-ownedbookstoremidtown.org",
+        "confidence": 0.58
+      },
+      {
+        "domain": "bookstore.org",
+        "confidence": 0.76
+      },
+      {
+        "domain": "bookstoremidtownfamily-owned.org",
+        "confidence": 0.74
+      },
+      {
+        "domain": "family-owned.com",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "business_description": "grocery store",
+    "suggestions": [
+      {
+        "domain": "storegrocery.co",
+        "confidence": 0.89
+      }
+    ]
+  },
+  {
+    "business_description": "pet store",
+    "suggestions": [
+      {
+        "domain": "store.io",
+        "confidence": 0.68
+      },
+      {
+        "domain": "petstore.org",
+        "confidence": 0.9
+      },
+      {
+        "domain": "storepet.co",
+        "confidence": 0.87
+      },
+      {
+        "domain": "pet.io",
+        "confidence": 0.54
+      }
+    ]
+  },
+  {
+    "business_description": "eco-friendly pet store in downtown",
+    "suggestions": [
+      {
+        "domain": "eco-friendlypet.ai",
+        "confidence": 0.56
+      },
+      {
+        "domain": "eco-friendly.ai",
+        "confidence": 0.61
+      },
+      {
+        "domain": "pet.ai",
+        "confidence": 0.89
+      },
+      {
+        "domain": "eco-friendlydowntown.io",
+        "confidence": 0.79
+      },
+      {
+        "domain": "pet.co",
+        "confidence": 0.75
+      }
+    ]
+  },
+  {
+    "business_description": "express tech startup",
+    "suggestions": [
+      {
+        "domain": "techexpressstartup.net",
+        "confidence": 0.78
+      },
+      {
+        "domain": "expresstechstartup.com",
+        "confidence": 0.92
+      },
+      {
+        "domain": "techstartupexpress.com",
+        "confidence": 0.6
+      },
+      {
+        "domain": "expressstartuptech.co",
+        "confidence": 0.76
+      }
+    ]
+  },
+  {
+    "business_description": "natural medical clinic in main street",
+    "suggestions": [
+      {
+        "domain": "natural.co",
+        "confidence": 0.53
+      },
+      {
+        "domain": "streetmainnatural.io",
+        "confidence": 0.77
+      },
+      {
+        "domain": "clinicstreetmedical.net",
+        "confidence": 0.75
+      },
+      {
+        "domain": "streetmedical.io",
+        "confidence": 0.61
+      }
+    ]
+  },
+  {
+    "business_description": "eco-friendly photography studio",
+    "suggestions": [
+      {
+        "domain": "eco-friendlystudiophotography.com",
+        "confidence": 0.91
+      },
+      {
+        "domain": "studio.org",
+        "confidence": 0.92
+      },
+      {
+        "domain": "photographystudioeco-friendly.ai",
+        "confidence": 0.89
+      }
+    ]
+  },
+  {
+    "business_description": "local travel agency",
+    "suggestions": [
+      {
+        "domain": "agencylocal.net",
+        "confidence": 0.61
+      },
+      {
+        "domain": "local.ai",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "business_description": "medical clinic in historic district",
+    "suggestions": [
+      {
+        "domain": "clinic.io",
+        "confidence": 0.93
+      },
+      {
+        "domain": "medicalclinicdistrict.org",
+        "confidence": 0.65
+      },
+      {
+        "domain": "medicalhistoricclinic.io",
+        "confidence": 0.62
+      },
+      {
+        "domain": "medicaldistrict.org",
+        "confidence": 0.64
+      }
+    ]
+  },
+  {
+    "business_description": "luxury photography studio",
+    "suggestions": [
+      {
+        "domain": "luxuryphotography.net",
+        "confidence": 0.81
+      },
+      {
+        "domain": "luxury.org",
+        "confidence": 0.68
+      },
+      {
+        "domain": "luxury.ai",
+        "confidence": 0.85
+      },
+      {
+        "domain": "photographyluxury.co",
+        "confidence": 0.71
+      }
+    ]
+  },
+  {
+    "business_description": "photography studio",
+    "suggestions": [
+      {
+        "domain": "photography.net",
+        "confidence": 0.78
+      },
+      {
+        "domain": "studiophotography.net",
+        "confidence": 0.68
+      },
+      {
+        "domain": "studiophotography.co",
+        "confidence": 0.56
+      }
+    ]
+  },
+  {
+    "business_description": "eco-friendly restaurant",
+    "suggestions": [
+      {
+        "domain": "restauranteco-friendly.ai",
+        "confidence": 0.78
+      },
+      {
+        "domain": "restauranteco-friendly.org",
+        "confidence": 0.74
+      },
+      {
+        "domain": "eco-friendlyrestaurant.ai",
+        "confidence": 0.58
+      }
+    ]
+  },
+  {
+    "business_description": "vintage photography studio",
+    "suggestions": [
+      {
+        "domain": "studiovintagephotography.ai",
+        "confidence": 0.63
+      }
+    ]
+  },
+  {
+    "business_description": "boutique in hillside",
+    "suggestions": [
+      {
+        "domain": "boutique.com",
+        "confidence": 0.51
+      },
+      {
+        "domain": "boutiquehillside.ai",
+        "confidence": 0.53
+      },
+      {
+        "domain": "boutiquehillside.net",
+        "confidence": 0.86
+      },
+      {
+        "domain": "boutique.co",
+        "confidence": 0.68
+      },
+      {
+        "domain": "boutiquehillside.io",
+        "confidence": 0.85
+      }
+    ]
+  },
+  {
+    "business_description": "local tech startup",
+    "suggestions": [
+      {
+        "domain": "localstartup.com",
+        "confidence": 0.68
+      },
+      {
+        "domain": "startuplocal.com",
+        "confidence": 0.68
+      },
+      {
+        "domain": "techlocalstartup.io",
+        "confidence": 0.79
+      }
+    ]
+  },
+  {
+    "business_description": "premium pet store",
+    "suggestions": [
+      {
+        "domain": "store.com",
+        "confidence": 0.72
+      },
+      {
+        "domain": "petpremium.net",
+        "confidence": 0.93
+      },
+      {
+        "domain": "petpremium.ai",
+        "confidence": 0.75
+      },
+      {
+        "domain": "petpremium.co",
+        "confidence": 0.83
+      },
+      {
+        "domain": "storepremium.net",
+        "confidence": 0.64
+      }
+    ]
+  },
+  {
+    "business_description": "deluxe bakery",
+    "suggestions": [
+      {
+        "domain": "bakerydeluxe.ai",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "business_description": "law firm in historic district",
+    "suggestions": [
+      {
+        "domain": "historic.net",
+        "confidence": 0.68
+      },
+      {
+        "domain": "historiclawdistrict.net",
+        "confidence": 0.52
+      },
+      {
+        "domain": "firmdistrict.ai",
+        "confidence": 0.74
+      },
+      {
+        "domain": "district.ai",
+        "confidence": 0.63
+      },
+      {
+        "domain": "lawdistrict.io",
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "business_description": "family-owned law firm in city center",
+    "suggestions": [
+      {
+        "domain": "firmcenter.net",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "business_description": "premium photography studio",
+    "suggestions": [
+      {
+        "domain": "premiumstudiophotography.com",
+        "confidence": 0.6
+      },
+      {
+        "domain": "photographystudiopremium.net",
+        "confidence": 0.56
+      },
+      {
+        "domain": "photographypremiumstudio.co",
+        "confidence": 0.83
+      },
+      {
+        "domain": "premiumphotography.io",
+        "confidence": 0.7
+      },
+      {
+        "domain": "photography.com",
+        "confidence": 0.68
+      }
+    ]
+  },
+  {
+    "business_description": "premium music store",
+    "suggestions": [
+      {
+        "domain": "musicpremiumstore.co",
+        "confidence": 0.72
+      },
+      {
+        "domain": "storemusicpremium.co",
+        "confidence": 0.68
+      },
+      {
+        "domain": "music.io",
+        "confidence": 0.6
+      },
+      {
+        "domain": "music.net",
+        "confidence": 0.59
+      },
+      {
+        "domain": "premium.io",
+        "confidence": 0.91
+      }
+    ]
+  },
+  {
+    "business_description": "urban fitness center in business district",
+    "suggestions": [
+      {
+        "domain": "urban.ai",
+        "confidence": 0.69
+      },
+      {
+        "domain": "fitnessurban.org",
+        "confidence": 0.94
+      },
+      {
+        "domain": "districtcenter.org",
+        "confidence": 0.76
+      }
+    ]
+  },
+  {
+    "business_description": "hardware store",
+    "suggestions": [
+      {
+        "domain": "storehardware.net",
+        "confidence": 0.68
+      },
+      {
+        "domain": "hardwarestore.net",
+        "confidence": 0.92
+      },
+      {
+        "domain": "hardware.co",
+        "confidence": 0.94
+      }
+    ]
+  },
+  {
+    "business_description": "organic art gallery",
+    "suggestions": [
+      {
+        "domain": "artorganic.co",
+        "confidence": 0.59
+      },
+      {
+        "domain": "galleryorganic.co",
+        "confidence": 0.86
+      },
+      {
+        "domain": "gallery.ai",
+        "confidence": 0.62
+      },
+      {
+        "domain": "galleryart.com",
+        "confidence": 0.92
+      },
+      {
+        "domain": "organic.co",
+        "confidence": 0.68
+      }
+    ]
+  },
+  {
+    "business_description": "premium tech startup in downtown",
+    "suggestions": [
+      {
+        "domain": "premiumtech.ai",
+        "confidence": 0.76
+      },
+      {
+        "domain": "tech.org",
+        "confidence": 0.62
+      }
+    ]
+  },
+  {
+    "business_description": "music store in historic district",
+    "suggestions": [
+      {
+        "domain": "historic.com",
+        "confidence": 0.83
+      },
+      {
+        "domain": "storemusic.co",
+        "confidence": 0.75
+      },
+      {
+        "domain": "districthistoric.net",
+        "confidence": 0.72
+      },
+      {
+        "domain": "musicdistrict.com",
+        "confidence": 0.65
+      },
+      {
+        "domain": "historicstore.ai",
+        "confidence": 0.91
+      }
+    ]
+  },
+  {
+    "business_description": "express restaurant",
+    "suggestions": [
+      {
+        "domain": "expressrestaurant.co",
+        "confidence": 0.71
+      },
+      {
+        "domain": "restaurantexpress.ai",
+        "confidence": 0.92
+      }
+    ]
+  },
+  {
+    "business_description": "premium car repair shop",
+    "suggestions": [
+      {
+        "domain": "premiumcarrepair.net",
+        "confidence": 0.84
+      },
+      {
+        "domain": "repair.org",
+        "confidence": 0.84
+      },
+      {
+        "domain": "repaircar.io",
+        "confidence": 0.8
+      },
+      {
+        "domain": "shop.net",
+        "confidence": 0.51
+      },
+      {
+        "domain": "repair.com",
+        "confidence": 0.75
+      }
+    ]
+  },
+  {
+    "business_description": "modern bakery",
+    "suggestions": [
+      {
+        "domain": "modern.io",
+        "confidence": 0.66
+      }
+    ]
+  },
+  {
+    "business_description": "urban salon",
+    "suggestions": [
+      {
+        "domain": "urbansalon.net",
+        "confidence": 0.92
+      },
+      {
+        "domain": "urban.org",
+        "confidence": 0.94
+      }
+    ]
+  },
+  {
+    "business_description": "artisanal salon in downtown",
+    "suggestions": [
+      {
+        "domain": "salon.ai",
+        "confidence": 0.58
+      }
+    ]
+  },
+  {
+    "business_description": "fresh boutique",
+    "suggestions": [
+      {
+        "domain": "boutiquefresh.io",
+        "confidence": 0.67
+      },
+      {
+        "domain": "boutique.com",
+        "confidence": 0.55
+      },
+      {
+        "domain": "boutique.com",
+        "confidence": 0.51
+      },
+      {
+        "domain": "boutiquefresh.io",
+        "confidence": 0.63
+      },
+      {
+        "domain": "boutique.org",
+        "confidence": 0.52
+      }
+    ]
+  },
+  {
+    "business_description": "photography studio in uptown",
+    "suggestions": [
+      {
+        "domain": "photography.co",
+        "confidence": 0.87
+      },
+      {
+        "domain": "studiouptownphotography.co",
+        "confidence": 0.67
+      },
+      {
+        "domain": "uptownphotography.net",
+        "confidence": 0.64
+      },
+      {
+        "domain": "photographystudio.net",
+        "confidence": 0.52
+      }
+    ]
+  },
+  {
+    "business_description": "family-owned tech startup",
+    "suggestions": [
+      {
+        "domain": "family-ownedstartup.io",
+        "confidence": 0.56
+      },
+      {
+        "domain": "techstartupfamily-owned.net",
+        "confidence": 0.75
+      },
+      {
+        "domain": "techfamily-ownedstartup.ai",
+        "confidence": 0.64
+      },
+      {
+        "domain": "startup.com",
+        "confidence": 0.61
+      }
+    ]
+  },
+  {
+    "business_description": "affordable car repair shop",
+    "suggestions": [
+      {
+        "domain": "caraffordable.org",
+        "confidence": 0.69
+      }
+    ]
+  },
+  {
+    "business_description": "urban tech startup",
+    "suggestions": [
+      {
+        "domain": "urbanstartuptech.org",
+        "confidence": 0.62
+      },
+      {
+        "domain": "startup.net",
+        "confidence": 0.67
+      },
+      {
+        "domain": "startupurban.ai",
+        "confidence": 0.76
+      },
+      {
+        "domain": "urbantech.com",
+        "confidence": 0.81
+      },
+      {
+        "domain": "techurban.com",
+        "confidence": 0.66
+      }
+    ]
+  },
+  {
+    "business_description": "eco-friendly pet store",
+    "suggestions": [
+      {
+        "domain": "petstoreeco-friendly.co",
+        "confidence": 0.84
+      },
+      {
+        "domain": "peteco-friendlystore.io",
+        "confidence": 0.67
+      },
+      {
+        "domain": "storeeco-friendlypet.co",
+        "confidence": 0.59
+      },
+      {
+        "domain": "eco-friendlypetstore.io",
+        "confidence": 0.94
+      },
+      {
+        "domain": "eco-friendlypetstore.co",
+        "confidence": 0.92
+      }
+    ]
+  },
+  {
+    "business_description": "luxury tech startup in historic district",
+    "suggestions": [
+      {
+        "domain": "startuptechluxury.org",
+        "confidence": 0.78
+      }
+    ]
+  },
+  {
+    "business_description": "classic consulting firm",
+    "suggestions": [
+      {
+        "domain": "classicconsultingfirm.net",
+        "confidence": 0.74
+      }
+    ]
+  },
+  {
+    "business_description": "bakery",
+    "suggestions": [
+      {
+        "domain": "bakery.com",
+        "confidence": 0.72
+      }
+    ]
+  },
+  {
+    "business_description": "consulting firm",
+    "suggestions": [
+      {
+        "domain": "firmconsulting.net",
+        "confidence": 0.86
+      }
+    ]
+  },
+  {
+    "business_description": "premium fitness center",
+    "suggestions": [
+      {
+        "domain": "premiumcenter.org",
+        "confidence": 0.92
+      },
+      {
+        "domain": "centerfitnesspremium.com",
+        "confidence": 0.73
+      },
+      {
+        "domain": "premium.co",
+        "confidence": 0.59
+      },
+      {
+        "domain": "premiumfitness.org",
+        "confidence": 0.85
+      },
+      {
+        "domain": "center.org",
+        "confidence": 0.84
+      }
+    ]
+  },
+  {
+    "business_description": "car repair shop in hillside",
+    "suggestions": [
+      {
+        "domain": "hillsidecarrepair.net",
+        "confidence": 0.7
+      },
+      {
+        "domain": "shophillside.co",
+        "confidence": 0.88
+      }
+    ]
+  },
+  {
+    "business_description": "salon",
+    "suggestions": [
+      {
+        "domain": "salon.io",
+        "confidence": 0.67
+      },
+      {
+        "domain": "salon.io",
+        "confidence": 0.64
+      }
+    ]
+  },
+  {
+    "business_description": "quick boutique",
+    "suggestions": [
+      {
+        "domain": "quickboutique.ai",
+        "confidence": 0.76
+      },
+      {
+        "domain": "boutique.io",
+        "confidence": 0.64
+      },
+      {
+        "domain": "quick.co",
+        "confidence": 0.69
+      },
+      {
+        "domain": "boutiquequick.com",
+        "confidence": 0.92
+      }
+    ]
+  },
+  {
+    "business_description": "coffee shop in uptown",
+    "suggestions": [
+      {
+        "domain": "coffee.com",
+        "confidence": 0.68
+      },
+      {
+        "domain": "uptowncoffeeshop.net",
+        "confidence": 0.84
+      },
+      {
+        "domain": "uptown.com",
+        "confidence": 0.77
+      }
+    ]
+  },
+  {
+    "business_description": "photography studio",
+    "suggestions": [
+      {
+        "domain": "studio.com",
+        "confidence": 0.94
+      },
+      {
+        "domain": "studiophotography.ai",
+        "confidence": 0.61
+      },
+      {
+        "domain": "photographystudio.ai",
+        "confidence": 0.61
+      },
+      {
+        "domain": "photographystudio.org",
+        "confidence": 0.65
+      }
+    ]
+  },
+  {
+    "business_description": "deluxe bakery in beachfront",
+    "suggestions": [
+      {
+        "domain": "beachfront.io",
+        "confidence": 0.65
+      },
+      {
+        "domain": "deluxebeachfrontbakery.com",
+        "confidence": 0.53
+      },
+      {
+        "domain": "bakerybeachfront.net",
+        "confidence": 0.94
+      },
+      {
+        "domain": "deluxebakerybeachfront.ai",
+        "confidence": 0.57
+      }
+    ]
+  },
+  {
+    "business_description": "pet store",
+    "suggestions": [
+      {
+        "domain": "storepet.io",
+        "confidence": 0.52
+      },
+      {
+        "domain": "petstore.ai",
+        "confidence": 0.8
+      },
+      {
+        "domain": "petstore.net",
+        "confidence": 0.87
+      },
+      {
+        "domain": "storepet.io",
+        "confidence": 0.92
+      }
+    ]
+  },
+  {
+    "business_description": "local travel agency",
+    "suggestions": [
+      {
+        "domain": "localtravelagency.org",
+        "confidence": 0.82
+      },
+      {
+        "domain": "travelagencylocal.net",
+        "confidence": 0.93
+      }
+    ]
+  },
+  {
+    "business_description": "spa",
+    "suggestions": [
+      {
+        "domain": "spa.com",
+        "confidence": 0.66
+      }
+    ]
+  },
+  {
+    "business_description": "local law firm in beachfront",
+    "suggestions": [
+      {
+        "domain": "beachfrontlocal.com",
+        "confidence": 0.73
+      }
+    ]
+  },
+  {
+    "business_description": "bookstore",
+    "suggestions": [
+      {
+        "domain": "bookstore.org",
+        "confidence": 0.72
+      },
+      {
+        "domain": "bookstore.ai",
+        "confidence": 0.68
+      },
+      {
+        "domain": "bookstore.com",
+        "confidence": 0.55
+      }
+    ]
+  },
+  {
+    "business_description": "affordable music store",
+    "suggestions": [
+      {
+        "domain": "storeaffordablemusic.io",
+        "confidence": 0.54
+      },
+      {
+        "domain": "music.ai",
+        "confidence": 0.65
+      }
+    ]
+  },
+  {
+    "business_description": "grocery store",
+    "suggestions": [
+      {
+        "domain": "storegrocery.co",
+        "confidence": 0.7
+      },
+      {
+        "domain": "storegrocery.co",
+        "confidence": 0.65
+      },
+      {
+        "domain": "grocerystore.net",
+        "confidence": 0.69
+      }
+    ]
+  },
+  {
+    "business_description": "family-owned law firm",
+    "suggestions": [
+      {
+        "domain": "law.net",
+        "confidence": 0.72
+      },
+      {
+        "domain": "lawfamily-owned.io",
+        "confidence": 0.52
+      },
+      {
+        "domain": "lawfirm.co",
+        "confidence": 0.52
+      },
+      {
+        "domain": "firmlawfamily-owned.org",
+        "confidence": 0.82
+      }
+    ]
+  },
+  {
+    "business_description": "eco-friendly photography studio",
+    "suggestions": [
+      {
+        "domain": "studioeco-friendlyphotography.ai",
+        "confidence": 0.78
+      },
+      {
+        "domain": "photography.io",
+        "confidence": 0.54
+      },
+      {
+        "domain": "studiophotography.org",
+        "confidence": 0.55
+      }
+    ]
+  },
+  {
+    "business_description": "artisanal car repair shop",
+    "suggestions": [
+      {
+        "domain": "artisanal.io",
+        "confidence": 0.6
+      },
+      {
+        "domain": "repairshopartisanal.org",
+        "confidence": 0.63
+      },
+      {
+        "domain": "repair.io",
+        "confidence": 0.79
+      }
+    ]
+  },
+  {
+    "business_description": "grocery store in suburban",
+    "suggestions": [
+      {
+        "domain": "storesuburbangrocery.co",
+        "confidence": 0.57
+      },
+      {
+        "domain": "grocery.ai",
+        "confidence": 0.87
+      },
+      {
+        "domain": "suburban.org",
+        "confidence": 0.67
+      },
+      {
+        "domain": "suburbanstore.com",
+        "confidence": 0.79
+      },
+      {
+        "domain": "store.co",
+        "confidence": 0.54
+      }
+    ]
+  },
+  {
+    "business_description": "pet store",
+    "suggestions": [
+      {
+        "domain": "storepet.com",
+        "confidence": 0.84
+      },
+      {
+        "domain": "petstore.net",
+        "confidence": 0.5
+      },
+      {
+        "domain": "petstore.ai",
+        "confidence": 0.54
+      }
+    ]
+  },
+  {
+    "business_description": "vintage hardware store",
+    "suggestions": [
+      {
+        "domain": "vintagehardware.org",
+        "confidence": 0.86
+      }
+    ]
+  },
+  {
+    "business_description": "bakery in uptown",
+    "suggestions": [
+      {
+        "domain": "bakeryuptown.org",
+        "confidence": 0.69
+      },
+      {
+        "domain": "uptown.co",
+        "confidence": 0.58
+      },
+      {
+        "domain": "uptownbakery.io",
+        "confidence": 0.74
+      },
+      {
+        "domain": "uptownbakery.co",
+        "confidence": 0.94
+      },
+      {
+        "domain": "bakeryuptown.ai",
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "business_description": "fitness center in main street",
+    "suggestions": [
+      {
+        "domain": "mainfitnessstreet.org",
+        "confidence": 0.74
+      }
+    ]
+  },
+  {
+    "business_description": "bakery",
+    "suggestions": [
+      {
+        "domain": "bakery.co",
+        "confidence": 0.7
+      },
+      {
+        "domain": "bakery.ai",
+        "confidence": 0.7
+      },
+      {
+        "domain": "bakery.com",
+        "confidence": 0.87
+      }
+    ]
+  },
+  {
+    "business_description": "vintage law firm",
+    "suggestions": [
+      {
+        "domain": "lawvintagefirm.ai",
+        "confidence": 0.77
+      },
+      {
+        "domain": "law.io",
+        "confidence": 0.9
+      },
+      {
+        "domain": "lawvintage.com",
+        "confidence": 0.63
+      },
+      {
+        "domain": "firm.com",
+        "confidence": 0.79
+      },
+      {
+        "domain": "firmvintagelaw.ai",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "business_description": "vintage spa",
+    "suggestions": [
+      {
+        "domain": "vintagespa.org",
+        "confidence": 0.67
+      },
+      {
+        "domain": "spavintage.ai",
+        "confidence": 0.82
+      },
+      {
+        "domain": "vintagespa.com",
+        "confidence": 0.71
+      },
+      {
+        "domain": "vintagespa.net",
+        "confidence": 0.51
+      },
+      {
+        "domain": "vintagespa.net",
+        "confidence": 0.74
+      }
+    ]
+  },
+  {
+    "business_description": "music store",
+    "suggestions": [
+      {
+        "domain": "musicstore.org",
+        "confidence": 0.82
+      },
+      {
+        "domain": "storemusic.org",
+        "confidence": 0.63
+      }
+    ]
+  },
+  {
+    "business_description": "travel agency",
+    "suggestions": [
+      {
+        "domain": "agency.org",
+        "confidence": 0.8
+      },
+      {
+        "domain": "travelagency.net",
+        "confidence": 0.81
+      },
+      {
+        "domain": "travel.io",
+        "confidence": 0.66
+      },
+      {
+        "domain": "agency.org",
+        "confidence": 0.53
+      }
+    ]
+  },
+  {
+    "business_description": "classic restaurant",
+    "suggestions": [
+      {
+        "domain": "classicrestaurant.co",
+        "confidence": 0.76
+      },
+      {
+        "domain": "classicrestaurant.net",
+        "confidence": 0.87
+      },
+      {
+        "domain": "classicrestaurant.org",
+        "confidence": 0.77
+      }
+    ]
+  },
+  {
+    "business_description": "organic pet store",
+    "suggestions": [
+      {
+        "domain": "organicstore.net",
+        "confidence": 0.51
+      },
+      {
+        "domain": "store.com",
+        "confidence": 0.56
+      },
+      {
+        "domain": "storepet.co",
+        "confidence": 0.93
+      },
+      {
+        "domain": "organicstore.net",
+        "confidence": 0.62
+      },
+      {
+        "domain": "storepet.org",
+        "confidence": 0.69
+      }
+    ]
+  },
+  {
+    "business_description": "tech startup in suburban",
+    "suggestions": [
+      {
+        "domain": "suburbanstartup.org",
+        "confidence": 0.87
+      },
+      {
+        "domain": "startuptech.co",
+        "confidence": 0.62
+      },
+      {
+        "domain": "tech.org",
+        "confidence": 0.55
+      },
+      {
+        "domain": "startupsuburban.ai",
+        "confidence": 0.76
+      }
+    ]
+  },
+  {
+    "business_description": "affordable boutique",
+    "suggestions": [
+      {
+        "domain": "affordableboutique.org",
+        "confidence": 0.76
+      },
+      {
+        "domain": "affordableboutique.net",
+        "confidence": 0.91
+      }
+    ]
+  },
+  {
+    "business_description": "luxury boutique in  lakeside",
+    "suggestions": [
+      {
+        "domain": "lakeside.com",
+        "confidence": 0.88
+      },
+      {
+        "domain": "boutiquelakeside.co",
+        "confidence": 0.94
+      },
+      {
+        "domain": "luxuryboutiquelakeside.ai",
+        "confidence": 0.63
+      },
+      {
+        "domain": "lakesideluxury.io",
+        "confidence": 0.78
+      },
+      {
+        "domain": "boutique.com",
+        "confidence": 0.79
+      }
+    ]
+  },
+  {
+    "business_description": "music store in historic district",
+    "suggestions": [
+      {
+        "domain": "music.co",
+        "confidence": 0.74
+      },
+      {
+        "domain": "music.net",
+        "confidence": 0.82
+      },
+      {
+        "domain": "storedistrict.com",
+        "confidence": 0.61
+      }
+    ]
+  },
+  {
+    "business_description": "artisanal hardware store",
+    "suggestions": [
+      {
+        "domain": "storeartisanal.co",
+        "confidence": 0.63
+      },
+      {
+        "domain": "artisanal.co",
+        "confidence": 0.83
+      }
+    ]
+  },
+  {
+    "business_description": "spa",
+    "suggestions": [
+      {
+        "domain": "spa.org",
+        "confidence": 0.54
+      },
+      {
+        "domain": "spa.net",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "business_description": "tech startup",
+    "suggestions": [
+      {
+        "domain": "techstartup.com",
+        "confidence": 0.77
+      },
+      {
+        "domain": "startuptech.co",
+        "confidence": 0.88
+      }
+    ]
+  },
+  {
+    "business_description": "grocery store in uptown",
+    "suggestions": [
+      {
+        "domain": "grocery.ai",
+        "confidence": 0.9
+      },
+      {
+        "domain": "uptownstoregrocery.co",
+        "confidence": 0.57
+      },
+      {
+        "domain": "uptown.com",
+        "confidence": 0.53
+      }
+    ]
+  },
+  {
+    "business_description": "boutique",
+    "suggestions": [
+      {
+        "domain": "boutique.net",
+        "confidence": 0.88
+      },
+      {
+        "domain": "boutique.ai",
+        "confidence": 0.79
+      },
+      {
+        "domain": "boutique.co",
+        "confidence": 0.58
+      },
+      {
+        "domain": "boutique.io",
+        "confidence": 0.54
+      }
+    ]
+  },
+  {
+    "business_description": "classic salon",
+    "suggestions": [
+      {
+        "domain": "salon.com",
+        "confidence": 0.79
+      },
+      {
+        "domain": "classicsalon.org",
+        "confidence": 0.57
+      },
+      {
+        "domain": "classicsalon.co",
+        "confidence": 0.56
+      }
+    ]
+  },
+  {
+    "business_description": "organic boutique in downtown",
+    "suggestions": [
+      {
+        "domain": "organicdowntownboutique.com",
+        "confidence": 0.59
+      },
+      {
+        "domain": "boutiqueorganicdowntown.net",
+        "confidence": 0.93
+      }
+    ]
+  },
+  {
+    "business_description": "travel agency in main street",
+    "suggestions": [
+      {
+        "domain": "agencytravel.net",
+        "confidence": 0.69
+      },
+      {
+        "domain": "travelstreetagency.net",
+        "confidence": 0.53
+      },
+      {
+        "domain": "agencytravelmain.org",
+        "confidence": 0.91
+      },
+      {
+        "domain": "streetagency.ai",
+        "confidence": 0.84
+      }
+    ]
+  },
+  {
+    "business_description": "affordable hardware store in city center",
+    "suggestions": [
+      {
+        "domain": "centeraffordable.net",
+        "confidence": 0.62
+      },
+      {
+        "domain": "hardwareaffordable.com",
+        "confidence": 0.79
+      },
+      {
+        "domain": "hardware.net",
+        "confidence": 0.92
+      }
+    ]
+  },
+  {
+    "business_description": "coffee shop",
+    "suggestions": [
+      {
+        "domain": "shop.net",
+        "confidence": 0.88
+      },
+      {
+        "domain": "coffeeshop.co",
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "business_description": "tech startup",
+    "suggestions": [
+      {
+        "domain": "techstartup.com",
+        "confidence": 0.55
+      },
+      {
+        "domain": "startuptech.io",
+        "confidence": 0.56
+      },
+      {
+        "domain": "startuptech.io",
+        "confidence": 0.52
+      }
+    ]
+  },
+  {
+    "business_description": "grocery store",
+    "suggestions": [
+      {
+        "domain": "grocery.ai",
+        "confidence": 0.77
+      },
+      {
+        "domain": "grocerystore.com",
+        "confidence": 0.67
+      },
+      {
+        "domain": "grocerystore.com",
+        "confidence": 0.9
+      },
+      {
+        "domain": "grocery.net",
+        "confidence": 0.77
+      },
+      {
+        "domain": "grocery.co",
+        "confidence": 0.69
+      }
+    ]
+  },
+  {
+    "business_description": "law firm",
+    "suggestions": [
+      {
+        "domain": "firmlaw.co",
+        "confidence": 0.83
+      },
+      {
+        "domain": "lawfirm.com",
+        "confidence": 0.91
+      }
+    ]
+  },
+  {
+    "business_description": "photography studio",
+    "suggestions": [
+      {
+        "domain": "studiophotography.co",
+        "confidence": 0.64
+      },
+      {
+        "domain": "studio.ai",
+        "confidence": 0.62
+      }
+    ]
+  },
+  {
+    "business_description": "urban boutique",
+    "suggestions": [
+      {
+        "domain": "urban.ai",
+        "confidence": 0.87
+      },
+      {
+        "domain": "boutiqueurban.net",
+        "confidence": 0.57
+      },
+      {
+        "domain": "boutiqueurban.co",
+        "confidence": 0.84
+      }
+    ]
+  },
+  {
+    "business_description": "law firm",
+    "suggestions": [
+      {
+        "domain": "lawfirm.co",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "business_description": "car repair shop in historic district",
+    "suggestions": [
+      {
+        "domain": "carshophistoric.ai",
+        "confidence": 0.87
+      }
+    ]
+  },
+  {
+    "business_description": "bookstore in business district",
+    "suggestions": [
+      {
+        "domain": "bookstore.net",
+        "confidence": 0.68
+      }
+    ]
+  },
+  {
+    "business_description": "boutique",
+    "suggestions": [
+      {
+        "domain": "boutique.com",
+        "confidence": 0.9
+      },
+      {
+        "domain": "boutique.org",
+        "confidence": 0.54
+      },
+      {
+        "domain": "boutique.ai",
+        "confidence": 0.64
+      }
+    ]
+  },
+  {
+    "business_description": "affordable grocery store",
+    "suggestions": [
+      {
+        "domain": "grocery.com",
+        "confidence": 0.7
+      },
+      {
+        "domain": "storeaffordable.net",
+        "confidence": 0.74
+      },
+      {
+        "domain": "storeaffordablegrocery.ai",
+        "confidence": 0.73
+      },
+      {
+        "domain": "storeaffordablegrocery.com",
+        "confidence": 0.53
+      },
+      {
+        "domain": "grocerystore.org",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "business_description": "premium bookstore in historic district",
+    "suggestions": [
+      {
+        "domain": "premiumdistrict.co",
+        "confidence": 0.62
+      },
+      {
+        "domain": "premiumbookstoredistrict.co",
+        "confidence": 0.89
+      }
+    ]
+  },
+  {
+    "business_description": "pet store",
+    "suggestions": [
+      {
+        "domain": "petstore.net",
+        "confidence": 0.52
+      },
+      {
+        "domain": "storepet.ai",
+        "confidence": 0.59
+      },
+      {
+        "domain": "pet.ai",
+        "confidence": 0.79
+      },
+      {
+        "domain": "petstore.co",
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "business_description": "premium spa",
+    "suggestions": [
+      {
+        "domain": "spapremium.org",
+        "confidence": 0.88
+      },
+      {
+        "domain": "premiumspa.org",
+        "confidence": 0.79
+      }
+    ]
+  },
+  {
+    "business_description": "artisanal spa in uptown",
+    "suggestions": [
+      {
+        "domain": "spa.io",
+        "confidence": 0.6
+      },
+      {
+        "domain": "artisanal.co",
+        "confidence": 0.69
+      }
+    ]
+  },
+  {
+    "business_description": "salon",
+    "suggestions": [
+      {
+        "domain": "salon.io",
+        "confidence": 0.72
+      },
+      {
+        "domain": "salon.net",
+        "confidence": 0.81
+      },
+      {
+        "domain": "salon.io",
+        "confidence": 0.55
+      },
+      {
+        "domain": "salon.co",
+        "confidence": 0.71
+      }
+    ]
+  },
+  {
+    "business_description": "classic travel agency",
+    "suggestions": [
+      {
+        "domain": "travel.ai",
+        "confidence": 0.76
+      },
+      {
+        "domain": "agency.io",
+        "confidence": 0.64
+      }
+    ]
+  },
+  {
+    "business_description": "consulting firm",
+    "suggestions": [
+      {
+        "domain": "consulting.org",
+        "confidence": 0.54
+      },
+      {
+        "domain": "consultingfirm.io",
+        "confidence": 0.71
+      },
+      {
+        "domain": "consultingfirm.net",
+        "confidence": 0.88
+      },
+      {
+        "domain": "firm.net",
+        "confidence": 0.53
+      },
+      {
+        "domain": "firm.org",
+        "confidence": 0.63
+      }
+    ]
+  },
+  {
+    "business_description": "pet store",
+    "suggestions": [
+      {
+        "domain": "petstore.org",
+        "confidence": 0.6
+      },
+      {
+        "domain": "petstore.com",
+        "confidence": 0.92
+      },
+      {
+        "domain": "storepet.com",
+        "confidence": 0.91
+      },
+      {
+        "domain": "petstore.com",
+        "confidence": 0.68
+      }
+    ]
+  },
+  {
+    "business_description": "spa",
+    "suggestions": [
+      {
+        "domain": "spa.com",
+        "confidence": 0.91
+      },
+      {
+        "domain": "spa.co",
+        "confidence": 0.58
+      },
+      {
+        "domain": "spa.com",
+        "confidence": 0.58
+      },
+      {
+        "domain": "spa.net",
+        "confidence": 0.55
+      },
+      {
+        "domain": "spa.com",
+        "confidence": 0.81
+      }
+    ]
+  },
+  {
+    "business_description": "medical clinic",
+    "suggestions": [
+      {
+        "domain": "medicalclinic.co",
+        "confidence": 0.52
+      },
+      {
+        "domain": "clinicmedical.org",
+        "confidence": 0.81
+      }
+    ]
+  },
+  {
+    "business_description": "bookstore",
+    "suggestions": [
+      {
+        "domain": "bookstore.io",
+        "confidence": 0.5
+      },
+      {
+        "domain": "bookstore.net",
+        "confidence": 0.66
+      },
+      {
+        "domain": "bookstore.co",
+        "confidence": 0.61
+      },
+      {
+        "domain": "bookstore.io",
+        "confidence": 0.85
+      },
+      {
+        "domain": "bookstore.net",
+        "confidence": 0.81
+      }
+    ]
+  },
+  {
+    "business_description": "spa",
+    "suggestions": [
+      {
+        "domain": "spa.io",
+        "confidence": 0.65
+      },
+      {
+        "domain": "spa.com",
+        "confidence": 0.62
+      }
+    ]
+  },
+  {
+    "business_description": "fitness center",
+    "suggestions": [
+      {
+        "domain": "centerfitness.io",
+        "confidence": 0.82
+      },
+      {
+        "domain": "centerfitness.co",
+        "confidence": 0.7
+      },
+      {
+        "domain": "fitness.io",
+        "confidence": 0.85
+      },
+      {
+        "domain": "center.ai",
+        "confidence": 0.58
+      },
+      {
+        "domain": "centerfitness.com",
+        "confidence": 0.62
+      }
+    ]
+  },
+  {
+    "business_description": "classic photography studio",
+    "suggestions": [
+      {
+        "domain": "classicstudiophotography.net",
+        "confidence": 0.55
+      }
+    ]
+  },
+  {
+    "business_description": "car repair shop in suburban",
+    "suggestions": [
+      {
+        "domain": "carrepair.ai",
+        "confidence": 0.9
+      },
+      {
+        "domain": "car.ai",
+        "confidence": 0.77
+      },
+      {
+        "domain": "shoprepaircar.org",
+        "confidence": 0.86
+      },
+      {
+        "domain": "shoprepair.net",
+        "confidence": 0.6
+      }
+    ]
+  },
+  {
+    "business_description": "organic boutique",
+    "suggestions": [
+      {
+        "domain": "organicboutique.io",
+        "confidence": 0.52
+      },
+      {
+        "domain": "boutique.com",
+        "confidence": 0.85
+      },
+      {
+        "domain": "organicboutique.ai",
+        "confidence": 0.88
+      },
+      {
+        "domain": "boutique.com",
+        "confidence": 0.57
+      },
+      {
+        "domain": "boutiqueorganic.io",
+        "confidence": 0.76
+      }
+    ]
+  },
+  {
+    "business_description": "fitness center in uptown",
+    "suggestions": [
+      {
+        "domain": "uptowncenter.org",
+        "confidence": 0.58
+      },
+      {
+        "domain": "centeruptown.co",
+        "confidence": 0.86
+      }
+    ]
+  },
+  {
+    "business_description": "luxury music store",
+    "suggestions": [
+      {
+        "domain": "musicstore.net",
+        "confidence": 0.7
+      },
+      {
+        "domain": "music.org",
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "business_description": "medical clinic",
+    "suggestions": [
+      {
+        "domain": "clinicmedical.co",
+        "confidence": 0.67
+      },
+      {
+        "domain": "clinicmedical.org",
+        "confidence": 0.93
+      },
+      {
+        "domain": "clinicmedical.net",
+        "confidence": 0.57
+      }
+    ]
+  },
+  {
+    "business_description": "medical clinic",
+    "suggestions": [
+      {
+        "domain": "clinicmedical.ai",
+        "confidence": 0.58
+      },
+      {
+        "domain": "medicalclinic.io",
+        "confidence": 0.95
+      },
+      {
+        "domain": "medicalclinic.io",
+        "confidence": 0.73
+      },
+      {
+        "domain": "medicalclinic.co",
+        "confidence": 0.9
+      },
+      {
+        "domain": "medicalclinic.net",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "business_description": "boutique",
+    "suggestions": [
+      {
+        "domain": "boutique.net",
+        "confidence": 0.86
+      },
+      {
+        "domain": "boutique.com",
+        "confidence": 0.64
+      },
+      {
+        "domain": "boutique.io",
+        "confidence": 0.94
+      },
+      {
+        "domain": "boutique.co",
+        "confidence": 0.63
+      },
+      {
+        "domain": "boutique.ai",
+        "confidence": 0.6
+      }
+    ]
+  },
+  {
+    "business_description": "bakery",
+    "suggestions": [
+      {
+        "domain": "bakery.io",
+        "confidence": 0.62
+      },
+      {
+        "domain": "bakery.net",
+        "confidence": 0.61
+      }
+    ]
+  },
+  {
+    "business_description": "family-owned salon",
+    "suggestions": [
+      {
+        "domain": "family-ownedsalon.com",
+        "confidence": 0.7
+      },
+      {
+        "domain": "family-ownedsalon.net",
+        "confidence": 0.73
+      },
+      {
+        "domain": "family-ownedsalon.org",
+        "confidence": 0.68
+      },
+      {
+        "domain": "family-owned.io",
+        "confidence": 0.81
+      }
+    ]
+  },
+  {
+    "business_description": "affordable hardware store",
+    "suggestions": [
+      {
+        "domain": "hardwarestoreaffordable.net",
+        "confidence": 0.84
+      },
+      {
+        "domain": "hardware.com",
+        "confidence": 0.77
+      },
+      {
+        "domain": "affordable.co",
+        "confidence": 0.59
+      },
+      {
+        "domain": "affordable.com",
+        "confidence": 0.57
+      }
+    ]
+  },
+  {
+    "business_description": "travel agency in beachfront",
+    "suggestions": [
+      {
+        "domain": "agencybeachfronttravel.com",
+        "confidence": 0.89
+      },
+      {
+        "domain": "travel.net",
+        "confidence": 0.53
+      },
+      {
+        "domain": "beachfront.org",
+        "confidence": 0.9
+      },
+      {
+        "domain": "agency.net",
+        "confidence": 0.92
+      },
+      {
+        "domain": "travel.net",
+        "confidence": 0.72
+      }
+    ]
+  },
+  {
+    "business_description": "consulting firm",
+    "suggestions": [
+      {
+        "domain": "firmconsulting.ai",
+        "confidence": 0.95
+      },
+      {
+        "domain": "consultingfirm.com",
+        "confidence": 0.9
+      },
+      {
+        "domain": "firmconsulting.net",
+        "confidence": 0.55
+      }
+    ]
+  },
+  {
+    "business_description": "artisanal music store",
+    "suggestions": [
+      {
+        "domain": "artisanalstoremusic.co",
+        "confidence": 0.57
+      },
+      {
+        "domain": "artisanal.com",
+        "confidence": 0.91
+      },
+      {
+        "domain": "storemusicartisanal.co",
+        "confidence": 0.92
+      },
+      {
+        "domain": "musicstoreartisanal.net",
+        "confidence": 0.51
+      }
+    ]
+  },
+  {
+    "business_description": "consulting firm",
+    "suggestions": [
+      {
+        "domain": "consulting.ai",
+        "confidence": 0.76
+      },
+      {
+        "domain": "firmconsulting.org",
+        "confidence": 0.84
+      },
+      {
+        "domain": "firmconsulting.io",
+        "confidence": 0.89
+      }
+    ]
+  },
+  {
+    "business_description": "salon in shopping mall",
+    "suggestions": [
+      {
+        "domain": "mallshoppingsalon.io",
+        "confidence": 0.92
+      },
+      {
+        "domain": "mallsalon.ai",
+        "confidence": 0.78
+      },
+      {
+        "domain": "salon.co",
+        "confidence": 0.87
+      },
+      {
+        "domain": "salonmallshopping.io",
+        "confidence": 0.58
+      },
+      {
+        "domain": "salon.com",
+        "confidence": 0.65
+      }
+    ]
+  },
+  {
+    "business_description": "urban bakery",
+    "suggestions": [
+      {
+        "domain": "bakeryurban.co",
+        "confidence": 0.89
+      },
+      {
+        "domain": "bakeryurban.org",
+        "confidence": 0.64
+      }
+    ]
+  },
+  {
+    "business_description": "vintage hardware store",
+    "suggestions": [
+      {
+        "domain": "store.net",
+        "confidence": 0.51
+      },
+      {
+        "domain": "hardwarevintagestore.org",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "business_description": "artisanal car repair shop",
+    "suggestions": [
+      {
+        "domain": "shoprepairartisanal.net",
+        "confidence": 0.78
+      },
+      {
+        "domain": "repairartisanalcar.com",
+        "confidence": 0.68
+      },
+      {
+        "domain": "artisanalrepair.co",
+        "confidence": 0.53
+      }
+    ]
+  },
+  {
+    "business_description": "natural spa",
+    "suggestions": [
+      {
+        "domain": "spa.net",
+        "confidence": 0.53
+      }
+    ]
+  },
+  {
+    "business_description": "hardware store",
+    "suggestions": [
+      {
+        "domain": "storehardware.io",
+        "confidence": 0.8
+      },
+      {
+        "domain": "hardwarestore.ai",
+        "confidence": 0.95
+      },
+      {
+        "domain": "storehardware.com",
+        "confidence": 0.94
+      },
+      {
+        "domain": "storehardware.com",
+        "confidence": 0.54
+      },
+      {
+        "domain": "storehardware.ai",
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "business_description": "vintage pet store",
+    "suggestions": [
+      {
+        "domain": "vintagepetstore.net",
+        "confidence": 0.87
+      },
+      {
+        "domain": "storevintage.net",
+        "confidence": 0.64
+      }
+    ]
+  },
+  {
+    "business_description": "bookstore",
+    "suggestions": [
+      {
+        "domain": "bookstore.co",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "business_description": "natural hardware store",
+    "suggestions": [
+      {
+        "domain": "hardware.net",
+        "confidence": 0.5
+      },
+      {
+        "domain": "naturalhardware.ai",
+        "confidence": 0.6
+      },
+      {
+        "domain": "store.net",
+        "confidence": 0.76
+      },
+      {
+        "domain": "storehardware.co",
+        "confidence": 0.83
+      }
+    ]
+  }
+]

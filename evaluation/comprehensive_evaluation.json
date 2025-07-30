@@ -1,0 +1,21 @@
+{
+  "average_confidence": 0.7246710526315789,
+  "domain_diversity": 0.7911184210526315,
+  "total_suggestions": 608,
+  "unique_domains": 481,
+  "average_domain_length": 15.021381578947368,
+  "extension_distribution": {
+    ".org": 97,
+    ".net": 121,
+    ".io": 93,
+    ".ai": 101,
+    ".co": 100,
+    ".com": 96
+  },
+  "confidence_distribution": {
+    "0.7-0.8": 126,
+    "<0.7": 275,
+    "0.8-0.9": 126,
+    "0.9-1.0": 81
+  }
+}
