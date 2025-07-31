@@ -1,0 +1,10 @@
+# .dockerignore
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+README.md
+*.tar.gz
+*.log
+.DS_Store

@@ -1,0 +1,35 @@
+services:
+  # Main project service for running scripts and notebooks
+  domain-suggestion:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: /bin/bash
+    environment:
+      - PYTHONPATH=/app
+
+  # API service
+  api:
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    working_dir: /app/api
+    environment:
+      - PYTHONPATH=/app
+
+  # Jupyter notebook service
+  notebook:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root
+    environment:
+      - PYTHONPATH=/app

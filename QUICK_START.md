@@ -14,10 +14,20 @@ domain_suggestion_llm/
 ├── api/                  # API implementation
 ├── README.md             # Project overview
 ├── requirements.txt      # Project dependencies
-└── technical_report.md   # Technical report
+├── technical_report.md   # Technical report
+├── Dockerfile            # Docker configuration for main project
+├── Dockerfile.unified    # Alternative unified Dockerfile
+├── docker-compose.yml    # Docker Compose configuration
+└── .dockerignore         # Files to ignore when building Docker images
 ```
 
-## Setup Instructions
+## Setup Options
+
+You can set up and run this project in two ways:
+1. Using a virtual environment (traditional approach)
+2. Using Docker (if Docker is properly configured on your system)
+
+## Setup with Virtual Environment
 
 1. **Create a virtual environment and install dependencies:**
    ```bash
@@ -38,6 +48,45 @@ domain_suggestion_llm/
    python evaluation/comprehensive_eval.py
    ```
    This will evaluate the synthetic dataset and save results in `evaluation/comprehensive_evaluation.json`.
+
+## Setup with Docker (If Docker is available)
+
+**Note:** Some systems may have issues with Docker networking. If you encounter errors during the build process, please use the virtual environment setup instead.
+
+1. **Install Docker and Docker Compose** if you haven't already:
+   - [Docker Installation Guide](https://docs.docker.com/get-docker/)
+   - [Docker Compose Installation Guide](https://docs.docker.com/compose/install/)
+
+2. **Build and start services:**
+   ```bash
+   cd domain_suggestion_llm
+   docker-compose up --build
+   ```
+
+3. **Run commands in the container:**
+   ```bash
+   # Generate synthetic data
+   docker-compose run domain-suggestion python src/generate_data.py
+   
+   # Run evaluation
+   docker-compose run domain-suggestion python evaluation/comprehensive_eval.py
+   ```
+
+4. **Access services:**
+   - API: http://localhost:8000
+   - Jupyter Notebook: http://localhost:8888
+
+## Alternative Docker Setup
+
+If the docker-compose setup doesn't work, you can try using the unified Dockerfile:
+
+```bash
+# Build the image
+docker build -t domain-suggestion -f Dockerfile.unified .
+
+# Run the container
+docker run -it -p 8000:8000 -p 8888:8888 -v $(pwd):/app domain-suggestion
+```
 
 ## Running the API
 
