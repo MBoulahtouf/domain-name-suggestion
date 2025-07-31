@@ -161,6 +161,7 @@ The project includes Jupyter notebooks for data analysis and API demonstration:
 
 1. `notebooks/01_data_analysis.ipynb` - Data analysis and visualization
 2. `notebooks/02_api_demo.ipynb` - API usage demonstration
+3. `notebooks/03_mlflow_demo.ipynb` - MLflow experiment tracking demonstration
 
 To run the notebooks:
 ```bash
@@ -170,6 +171,32 @@ source venv/bin/activate
 # Start Jupyter
 jupyter notebook
 ```
+
+## Running Enhanced Evaluation with MLflow
+
+This project includes MLflow integration for experiment tracking and model evaluation:
+
+1. **Run enhanced evaluation with MLflow tracking:**
+   ```bash
+   python evaluation/enhanced_eval_mlflow.py
+   ```
+
+2. **View MLflow UI:**
+   ```bash
+   mlflow ui --backend-store-uri file:///tmp/mlflow-tracking
+   ```
+   Then open http://localhost:5000 in your browser to view experiment results.
+
+3. **Run MLflow tracking script separately:**
+   ```bash
+   python evaluation/mlflow_tracking.py
+   ```
+
+The MLflow integration provides:
+- Experiment tracking with parameters and metrics
+- Artifact logging for evaluation results
+- Visualization of metrics and distributions
+- Reproducible experiment runs
 
 ## Testing
 

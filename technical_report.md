@@ -84,6 +84,18 @@ Confidence distribution:
 - 0.8-0.9: 126
 - 0.9-1.0: 81
 
+### 5.3 MLflow Experiment Tracking
+
+To enhance our evaluation capabilities, we integrated MLflow for experiment tracking and model management. This provides:
+
+- Comprehensive experiment logging
+- Metric tracking and visualization
+- Artifact storage for evaluation results
+- Model versioning capabilities
+- Reproducible experiment runs
+
+The MLflow integration allows us to compare different model versions, track hyperparameter changes, and visualize evaluation metrics over time.
+
 ## 6. Safety Considerations
 
 We implemented content filtering to prevent the generation of domain suggestions for inappropriate business descriptions. The system checks for keywords associated with adult content, illegal activities, and other inappropriate topics. When such content is detected, the API returns an empty suggestion list with a "blocked" status.
