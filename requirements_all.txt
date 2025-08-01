@@ -1,0 +1,25 @@
+# Requirements for the Domain Suggestion LLM Project
+
+# Core dependencies
+torch>=2.0.0
+transformers>=4.34.0
+accelerate>=0.20.0
+
+# API dependencies
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=1.8.0
+
+# Notebook dependencies
+jupyter>=1.0.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+pandas>=1.3.0
+
+# Evaluation dependencies
+scikit-learn>=1.0.0
+numpy>=1.21.0
+
+# Optional dependencies for fine-tuning (if needed in the future)
+# peft>=0.4.0
+# bitsandbytes>=0.41.0

@@ -1,0 +1,6 @@
+# Requirements for running Mistral 7B on Google Colab
+torch>=2.0.0
+transformers>=4.34.0
+accelerate>=0.20.0
+peft>=0.4.0
+bitsandbytes>=0.41.0

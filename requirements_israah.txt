@@ -1,0 +1,4 @@
+# Requirements for running the IsraaH domain name suggestion model on Google Colab
+torch>=2.0.0
+transformers>=4.34.0
+accelerate>=0.20.0
