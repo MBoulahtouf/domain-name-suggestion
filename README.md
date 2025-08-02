@@ -10,6 +10,7 @@ This project implements a fine-tuned LLM for domain name suggestions based on bu
 - `tests/`: Unit tests for the code
 - `evaluation/`: Evaluation framework and results
 - `api/`: API implementation for serving the model
+- `mlflow_data/`: MLflow tracking database and artifacts
 
 ## Notebooks
 
@@ -20,14 +21,50 @@ This project implements a fine-tuned LLM for domain name suggestions based on bu
 5. `04_israah_domain_suggestion_model.ipynb`: Implementation of the specialized `IsraaH/domain-name-suggestion-generator` model (direct model loading)
 6. `05_israah_domain_suggestion_model_chat_template.ipynb`: Implementation of the specialized `IsraaH/domain-name-suggestion-generator` model using chat template approach
 7. `06_domain_suggestion_evaluation_and_api.ipynb`: Systematic evaluation, edge case testing, and API implementation for the domain suggestion model
+8. `07_mistral_peft_domain_suggestion.ipynb`: Implementation of Mistral 7B model with PEFT (Parameter-Efficient Fine-Tuning) for domain name generation
+9. `08_qwen_domain_suggestion.ipynb`: Implementation using Qwen API for domain name generation with open-source LLM as judge
 
 ## Assignment Requirements
 
 1. Create a synthetic dataset for domain name suggestions
 2. Develop a baseline model and an improved model
-3. Implement an LLM-as-a-judge evaluation framework
+3. Implement an LLM-as-a-Judge evaluation framework
 4. Create a technical report documenting the approach and results
 5. (Optional) Deploy an API endpoint for the model
+
+## MLflow Integration
+
+This project uses MLflow for experiment tracking and model versioning. 
+
+### Setup
+
+1. Start the MLflow tracking server:
+```bash
+mlflow server --backend-store-uri sqlite:///mlflow_data/mlflow.db --default-artifact-root ./mlflow_data/mlruns --host 0.0.0.0 --port 5001 &
+```
+
+2. Run experiments using the provided scripts or notebooks:
+```bash
+# Run the domain suggestion experiment
+python domain_suggestion_mlflow.py
+
+# Or use the Jupyter notebook
+jupyter notebook domain_suggestion_experiment.ipynb
+```
+
+3. View experiment results in the MLflow UI at http://localhost:5001
+
+### Using MLflow in Your Project
+
+For your domain suggestion project, you should:
+
+1. **Track Model Versions**: Log each iteration of your fine-tuned LLM with MLflow
+2. **Log Evaluation Metrics**: Use the LLM-as-a-Judge framework to evaluate domain suggestions and log the results
+3. **Compare Experiments**: Use the MLflow UI to compare different model versions and hyperparameters
+4. **Manage Datasets**: Log information about your synthetic datasets
+5. **Document Edge Cases**: Log discovered edge cases and how your model handles them
+
+See `MLFLOW_USAGE.md` for more detailed information on using MLflow with this project.
 
 ## API Implementation
 
@@ -128,3 +165,28 @@ Model details:
 ## Evaluation
 
 The model has been systematically evaluated using the provided test dataset and edge cases. Results are available in the `evaluation/` directory.
+
+### Running All Experiments
+
+To run all experiments and generate a consolidated evaluation report:
+
+1. Make sure all dependencies are installed:
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the consolidated evaluation script:
+```bash
+python consolidated_evaluation.py
+```
+
+This will:
+- Evaluate all implemented models (IsraaH, Mistral, and algorithmic baseline)
+- Generate a comparison report with metrics for each model
+- Save detailed results to `evaluation/consolidated_evaluation_report.json`
+
+3. View experiment results in MLflow:
+```bash
+./view_mlflow_ui.sh
+```
+Then open http://localhost:5001 in your browser.

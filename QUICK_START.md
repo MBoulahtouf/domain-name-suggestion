@@ -181,22 +181,27 @@ This project includes MLflow integration for experiment tracking and model evalu
    python evaluation/enhanced_eval_mlflow.py
    ```
 
-2. **View MLflow UI:**
+2. **Run consolidated evaluation across all models:**
    ```bash
-   mlflow ui --backend-store-uri file:///tmp/mlflow-tracking
+   python consolidated_evaluation.py
    ```
-   Then open http://localhost:5000 in your browser to view experiment results.
 
-3. **Run MLflow tracking script separately:**
+3. **View MLflow UI:**
    ```bash
-   python evaluation/mlflow_tracking.py
+   ./view_mlflow_ui.sh
    ```
+   Then open http://localhost:5001 in your browser to view experiment results.
 
 The MLflow integration provides:
 - Experiment tracking with parameters and metrics
 - Artifact logging for evaluation results
 - Visualization of metrics and distributions
 - Reproducible experiment runs
+
+The consolidated evaluation script provides:
+- Comparative analysis across all implemented models
+- Standardized metrics for easy comparison
+- Detailed results saved to JSON file
 
 ## Testing
 
